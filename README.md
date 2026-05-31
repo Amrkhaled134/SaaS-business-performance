@@ -53,5 +53,5 @@ Power BI | Excel
 ![Dashboard Overview](Images/Main_dashboard.png)
 
 ### Interactive Filtering - Enterprise Active MRR
-![Enterprise_active_MRR](Images\Enterprise_active_MRR)
+![Enterprise Active MRR](Images/Enterprise_active_MRR.png)
 
