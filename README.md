@@ -52,11 +52,11 @@ Power BI | Excel
 ### Overview
 ![Dashboard Overview](Images/Main_dashboard.png)
 
-### Interactive Filtering - Enterprise Active MRR
+### Enterprise Active MRR
 ![Enterprise Active MRR](Images/Enterprise_active_MRR.png)
 
-### Interactive Filtering - Enterprise Churned MRR
-![Enterprise_Churned_MRR](Images/Enterprise_Churned_MRR.png)
+### Enterprise Churned MRR
+![Enterprise Churned MRR](Images/Enterprise_Churned_MRR.png)
 
-### Trend Over Time 
-![Trend_over_time](Images/Trend_over_time.png)
+### MRR Trend Over Time
+![MRR Trend Over Time](Images/Trend_over_time.png)
