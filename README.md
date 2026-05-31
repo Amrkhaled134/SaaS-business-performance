@@ -45,3 +45,9 @@ Power BI | Excel
 
 ## Data source
 [https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset]
+
+
+## Dashboard Screenshots
+
+### Overview
+![Dashboard Overview](Images/Main_dashboard.png)
